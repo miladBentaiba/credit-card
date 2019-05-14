@@ -55,11 +55,6 @@ class Row extends React.Component {
    ); }
 }
 
-
-
-
-
-
 class Card extends React.Component {
   render() {
     return (
